@@ -6,7 +6,7 @@
 *.md diff=markdown
 *.php diff=php
 
-/.github export-ignore
-/.ddev export-ignore
+.github/ export-ignore
+.ddev/ export-ignore
 .env.ci export-ignore
 .gitattributes export-ignore
