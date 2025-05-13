@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "apiato/apiato",
+    "name": "mderis/apiato",
     "type": "project",
     "description": "A flawless framework for building scalable and testable API-Centric Apps with PHP and Laravel.",
     "keywords": [
